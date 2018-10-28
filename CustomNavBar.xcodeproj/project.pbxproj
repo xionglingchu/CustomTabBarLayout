@@ -147,7 +147,7 @@
 				};
 			};
 			buildConfigurationList = C65859942182C87400056C11 /* Build configuration list for PBXProject "CustomNavBar" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 8.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
